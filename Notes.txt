@@ -1,0 +1,8 @@
+// FOR STRING and STRINGBUFFER
+1. Create strings as literals instead of creating String objects using 'new' key word whenever possible
+
+2. Use String.intern() method if you want to add number of equal objects whenever you   create String objects using 'new' key word.
+
+3. + operator gives best performance for String concatenation if Strings resolve at compile time
+
+4. StringBuffer with proper initial size gives best performance for String concatenation if Strings resolve at run time.
