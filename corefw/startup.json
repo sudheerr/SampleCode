@@ -1,0 +1,8 @@
+{
+//	"startupUrl":"data/top4.json",
+//	"localMode": true,
+//	"coreTheme": "classic",
+	"startupUrl": "data.json",
+	"urlRoot": "api/delegator;",
+	"application": "SampleApplication"
+}

@@ -1,0 +1,11 @@
+{
+   "name": "Corefw",
+   "requires": [],
+   "id": "b481ea11-3273-4494-b82a-d81de14e3ecc",
+   "resources": [
+      "resources/CitiRiskThemeApp-all.css",
+      "resources/adhoc/checkheader.css",
+		"resources/adhoc/GridFilters.css",
+		"resources/adhoc/RangeMenu.css"
+   ]
+}
